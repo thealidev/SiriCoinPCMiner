@@ -29,7 +29,7 @@ parsimonious==0.8.1
 protobuf==3.19.4
 pycryptodome==3.14.1
 pyrsistent==0.18.1
-requests==2.27.1
+requests==2.32.4
 rlp==2.0.1
 six==1.16.0
 toolz==0.11.2
